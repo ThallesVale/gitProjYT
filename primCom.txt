@@ -7,3 +7,8 @@ if response == 'Sure' :
 else:
  print('Well ,it was nice to see you around. Maybe next time!')
 
+try:
+ for i in response:
+  print(i)
+except:
+ #Ainda a des3nvolver...
