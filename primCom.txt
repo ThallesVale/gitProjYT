@@ -1,5 +1,9 @@
 print('ready to step up?')
 
-response = input('Enter "Sure" or "I'm in ;D")
+response = input('Enter "Sure" or "Next time": ')
 
-print(response)
+if response == 'Sure' :
+ print('Nice, let me show you the following steps..')
+else:
+ print('Well ,it was nice to see you around. Maybe next time!')
+
