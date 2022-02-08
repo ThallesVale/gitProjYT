@@ -1,0 +1,5 @@
+print('ready to step up?')
+
+response = input('Enter "Sure" or "I'm in ;D")
+
+print(response)
