@@ -1,3 +1,9 @@
+'''
 digitar o email ou key-access
-
 digitar senha
+processos de validacao
+'''
+
+login = input('Digite seu login: ')
+
+senha = input('Digite sua senha: ')
